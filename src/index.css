@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Croissant+One&family=Mooli&family=Poppins:ital@0;1&display=swap");
+
+.background {
+  background-image: url("./WhatsApp\ Image\ 2023-09-25\ at\ 6.57.55\ PM.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.weather {
+  font-family: "Mooli", sans-serif;
+  padding-top: 100px;
+  padding-left: 25px;
+  font-weight: 900;
+  font-size: 70px;
+  color: #fff;
+}
+
+.Inputcls {
+  margin-top: 10px;
+  margin-left: 30px;
+  padding: 20px;
+  border: none;
+  font-size: 20px;
+  border-radius: 4px;
+  font-family: "Mooli", sans-serif;
+  width: 24vw;
+  height: 3vw;
+}
+
+.png {
+  width: 100px;
+  height: 100px;
+}
+
+.submit {
+  background-color: orange;
+  margin-top: 10px;
+  margin-left: 30px;
+  border: none;
+  font-size: 20px;
+  border-radius: 4px;
+  font-family: "Mooli", sans-serif;
+  width: 24vw;
+  height: 3vw;
+}
+
+.getdata {
+  color: #fff;
+  font-size: 200px;
+  margin-left: 25px;
+}
+.textdata {
+  color: beige;
+  font-size: 50px;
+}
