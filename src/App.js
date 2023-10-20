@@ -50,6 +50,7 @@ function App() {
           {main}, {description}
         </span>
       </div>
+      
     </div>
   );
 }
